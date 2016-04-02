@@ -1,4 +1,4 @@
-package MS;
+package MS.MS_Mianjing;
 
 /**
  * Created by xiaopengliu on 3/04/16.
